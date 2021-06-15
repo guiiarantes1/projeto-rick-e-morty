@@ -17,7 +17,8 @@ body {
 header{
    color: #1db9d4;
    font-family: get-schwifty;
-   font-size: 125px;
+   font-size: 160px;
+   height: 190px;
    margin-top: 2%;
    text-align: center;
    text-shadow:#000 1px -1px 2px, rgb(0, 0, 0) -1px 1px 2px, rgb(0, 0, 0) 1px 1px 5px, rgb(0, 0, 0) -1px -1px 2px
@@ -40,7 +41,7 @@ main {
  }
 
  .nome {
-    background-color: #04580b2a;
+    background-color: #1db9d4;
     border-radius: 5px;
     color: rgb(246, 253, 253);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
